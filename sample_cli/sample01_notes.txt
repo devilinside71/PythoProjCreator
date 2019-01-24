@@ -1,0 +1,8 @@
+python __PROJECTNAMELCASE__.py  -f sample_function -v
+
+python __PROJECTNAMELCASE___test.py -v
+
+python __PROJECTNAMELCASE__.py -h
+python __PROJECTNAMELCASE__.py --help
+
+from __PROJECTNAMELCASE__ import __PROJECTNAME__
